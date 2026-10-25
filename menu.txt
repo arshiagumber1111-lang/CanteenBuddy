@@ -1,0 +1,8 @@
+Maggi,45
+Sandwich,50
+Burger,60
+Cold Coffee,70
+Momos,80
+Noodles,80
+Pasta,110
+Pizza,120
