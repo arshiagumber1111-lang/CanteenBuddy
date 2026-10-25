@@ -1,0 +1,9 @@
+# Compiled program
+canteen.exe
+*.exe
+
+# Order history and generated data
+orders.txt
+
+# Temporary files
+*.tmp
